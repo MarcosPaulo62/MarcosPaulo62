@@ -14,9 +14,9 @@ let MarcosPaulo62 = {
 
 ## Reach me out👇
 
-<a href = "mailto: marcospaulosc03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/marcos-silva-dev62/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/markos_sc_27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto: marcospaulosc03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50em"></a>
+<a href="https://www.linkedin.com/in/marcos-silva-dev62/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50em"></a>
+<a href="https://www.instagram.com/markos_sc_27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50em"></a>
 
 <br>
 
@@ -36,4 +36,11 @@ let MarcosPaulo62 = {
 </p>
 
 <br/>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=MarcosPaulo62&show_icons=true&t&theme=react"/>
+
+### 🛠️ Estatísticas do GitHub
+
+<div>
+  <a href="https://github.com/MarcosPaulo62">
+  <img height = "180em" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=MarcosPaulo62&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcosPaulo62&layout=compact&langs_count=8&theme=tokyonight" />
+<div>
