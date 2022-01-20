@@ -36,9 +36,6 @@ let MarcosPaulo62 = {
     🔭 I’m currently working on improving my development skills
 </p>
 <p align="left">
-    🌱 I'm studying Web Development
-</p>
-<p align="left">
     🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
 </p>
 <p align="left">
