@@ -14,6 +14,8 @@ let MarcosPaulo62 = {
 
 ## 🛠️ GitHub Statistics
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosPaulo62&label=Profile%20views&color=0e75b6&style=flat" alt="MarcosPaulo62" /> </p>
+
 <div>
     <a href="https://github.com/MarcosPaulo62">
     <img height = "150em" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=MarcosPaulo62&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
