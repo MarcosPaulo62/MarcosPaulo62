@@ -42,7 +42,7 @@ let MarcosPaulo62 = {
     🙋🏻‍♂️ I’m looking to collaborate on projects that will give me experience
 </p>
 <p align="left">
-    📫 How to reach me: <a href = "mailto: marcospaulosc03@gmail.com"> e-mail </a>
+    📫 <a href = "mailto: marcospaulosc03@gmail.com">How to reach me: e-mail </a>
 </p>
 
 ##
