@@ -5,7 +5,7 @@ let MarcosPaulo62 = {
     age: 18,
     country: 'Brazil',
     city: 'Cruz das Almas, BA',
-    stack: ['HTML','CSS', 'JavaScript', 'C#', 'Python','MySQL'],
+    stack: ['HTML','CSS', 'JavaScript', 'Bootstrap', 'C#', 'Python','MySQL'],
     interestedIn: ['React', 'React Native', 'Django']
 };
 ```
@@ -23,11 +23,11 @@ let MarcosPaulo62 = {
 <div>
 
 <div style="display: inline_block;"><br> 
-    <img align="center" alt="Marcos-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Marcos-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="Marcos-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Marcos-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
