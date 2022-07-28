@@ -5,8 +5,8 @@ let MarcosPaulo62 = {
     age: 18,
     country: 'Brazil',
     city: 'Cruz das Almas, BA',
-    stack: ['HTML','CSS', 'JavaScript', 'Bootstrap', 'C#', 'Python','MySQL'],
-    interestedIn: ['React', 'React Native', 'Django']
+    stack: ['HTML','CSS', 'JavaScript', 'React', 'Bootstrap', 'C#', 'Python','MySQL'],
+    interestedIn: ['React Native', 'Django']
 };
 ```
 
@@ -16,20 +16,23 @@ let MarcosPaulo62 = {
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosPaulo62&label=Profile%20views&color=0e75b6&style=flat" alt="MarcosPaulo62" /> </p>
 
-<div>
+<div align="center">
     <a href="https://github.com/MarcosPaulo62">
     <img height = "150em" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=MarcosPaulo62&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <img height = "150em" src = "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcosPaulo62&layout=compact&langs_count=8&theme=tokyonight" />  
-<div>
+</div>
 
 <div style="display: inline_block;"><br> 
     <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Marcos-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Marcos-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Marcos-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" alt="Marcos-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Marcos-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Marcos-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    
 </div>
   
 <br>
