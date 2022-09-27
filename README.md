@@ -6,7 +6,7 @@ let MarcosPaulo62 = {
     country: 'Brazil',
     city: 'Cruz das Almas, BA',
     stack: ['HTML','CSS', 'JavaScript', 'Bootstrap', 'C#', 'Python','MySQL'],
-    interestedIn: ['React', 'React Native', 'Django']
+    interestedIn: ['React', 'Angular', 'Node']
 };
 ```
 
