@@ -5,8 +5,8 @@ let MarcosPaulo62 = {
     age: 19,
     country: 'Brazil',
     city: 'Cruz das Almas, BA',
-    stack: ['HTML', 'CSS', 'JavaScript', 'Angular', 'Bootstrap', 'Java', 'C#', 'Python', 'MySQL'],
-    interestedIn: ['React']
+    stack: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React', 'Angular', 'Bootstrap', 'Java', 'C#', 'Python', 'MySQL'],
+    interestedIn: ['UX', 'UI']
 };
 ```
 
